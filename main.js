@@ -5,7 +5,6 @@ var allZone=new zone({
     zone:[50,50,300,300],
     radius:0.2
 });
-var dx=150;
 var dottedLine={
     lineWidth:2,
     setLineDash:[2,8],
